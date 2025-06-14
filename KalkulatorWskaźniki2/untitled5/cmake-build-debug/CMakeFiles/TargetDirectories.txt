@@ -1,3 +1,0 @@
-C:/Users/Bartek/Desktop/untitled5/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir
-C:/Users/Bartek/Desktop/untitled5/untitled5/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Bartek/Desktop/untitled5/untitled5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
