@@ -1,3 +1,0 @@
-C:/Users/Bartek/CLionProjects/RejestracjaSamochdów/cmake-build-debug/CMakeFiles/GraLiczbyLosowe.dir
-C:/Users/Bartek/CLionProjects/RejestracjaSamochdów/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Bartek/CLionProjects/RejestracjaSamochdów/cmake-build-debug/CMakeFiles/rebuild_cache.dir
